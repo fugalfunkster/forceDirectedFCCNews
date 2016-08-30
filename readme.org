@@ -1,0 +1,11 @@
+* Force Directed News Board Graph
+
+** Description
+This D3 project shows users that contributed to the (now deprecated) Free Code Camp news board. Each camper's avatar appears as an icon, and has connections to each domain name they posted news stories from. The data is now static, and kindly hosted by Lawliet Black, a fellow code camper.
+
+** View Project 
+http://www.fugalfunkster.com/forceDirectedFCCNews/
+
+** Todo list
+- [ ] make D3 chart width responsive
+
