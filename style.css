@@ -1,0 +1,43 @@
+body {
+  background-color: 	#B8860B;
+}
+
+h1 {
+  text-align: center;
+}
+
+#container {
+  background-color: teal;
+  max-width: 1000px;
+  margin: 50px auto 0 auto;
+}
+
+circle {
+  fill: white;
+  stroke: #fff;
+  stroke-width: 1px
+}
+
+line {
+  stroke: white;
+  stroke-width: 1px;
+}
+
+.circle text {
+  pointer-events: none;
+  font-color: black;
+  font: 10px sans-serif;
+}
+
+div.tooltip {
+  position: absolute;
+  height: auto;
+  max-width: auto;
+  padding: 5px;
+  background-color: lightblue;
+  color: black;
+  font-weight: bold;
+  pointer-events: none;
+  border-radius: 5px;
+  font-size: 16px;
+}
